@@ -11,7 +11,7 @@ function parseProducts(json) {
     data.products = JSON.parse(json);
     let products;
     products = data.products;
-    return products;
+    return ;
 }
 
 // Напишите функцию renderProductsCards(json)
